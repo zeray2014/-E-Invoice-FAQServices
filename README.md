@@ -1,1 +1,1 @@
-# -E-Invoice-FAQServices REST APIs
+# E-Invoice-FAQServices REST APIs
